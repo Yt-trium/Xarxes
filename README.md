@@ -58,3 +58,14 @@ The current design is based on an Arduino Mega card for data collection, and a T
       |                                                                  |
       +------------------------------------------------------------------+
 ```
+
+## Costs
+
+Here are the costs of the project following my purchases.
+
+* Arduino Mega 7€
+* TTGO LORA32 10€
+* Cables 1€
+* Sensors 1€ / 20€ -> depends on your needs
+
+For a basic project, 20€ are sufficient.
